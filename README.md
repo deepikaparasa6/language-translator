@@ -103,9 +103,7 @@ Follow these steps to run the application on your local machine:
 
 ### 1. Open Terminal or PowerShell
 Navigate to the project directory:
-```bash
-cd "C:\Users\BE BRAVE\.gemini\antigravity\scratch\language-translator"
-```
+
 
 ### 2. (Optional) Create and Activate a Virtual Environment
 ```bash
